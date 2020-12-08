@@ -1,2 +1,2 @@
 # Bubbles
-Click or sapce to create bubbles in HTML canvas with vanilla JS
+Click or press space key to create bubbles in HTML canvas with vanilla JS
